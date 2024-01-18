@@ -44,7 +44,7 @@
     "@turf/intersect": "^6.5.0",
     "adminjs": "^7.5.2",
     "axios": "^1.6.2",
-    "camelcase-keys": "^7.0.2",
+    "camelcase-keys": "^9.0.0",
     "class-transformer": "^0.5.1",
     "class-validator": "^0.14.0",
     "connect-typeorm": "^2.0.0",
